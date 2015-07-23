@@ -7,13 +7,13 @@ https://www.youtube.com/watch?v=1jGsr-wqyz0
 
 -Hardware-
 
-USB Power Cable: http://www.ebay.com/itm/271136254764
+USB Mini Wall Power Cable
 
-Arduino Nano: http://www.ebay.com/itm/301037525380
+Arduino Nano
 
-Bluetooth Transceiver: http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=370999505335
+Wireless Serial 4 Pin Bluetooth RF Transceiver Module HC-06 RS232
 
-Relay: http://www.ebay.com/itm/321302844794
+1-Channel Opto-Isolated Relay Module Low Trigger 5V
 
 Arduino Code: bluetooth.ino
 
